@@ -90,8 +90,8 @@ def BayesianNet_Test(Dataset,Mat):
 
 
 
-Dataset = read_dataset("data/data1.txt")
-Dataset2 = read_dataset("data/data2.txt")
+Dataset = read_dataset("data/bayesian_data/data1.txt")
+Dataset2 = read_dataset("data/bayesian_data/data2.txt")
 
 
 
